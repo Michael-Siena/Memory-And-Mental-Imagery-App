@@ -1,5 +1,5 @@
 mergeInto(LibraryManager.library, {	
-	GetJSON: function(path, objectName, callback, fallback) {
+    GetJSON: function(path, objectName, callback, fallback) {
 	var parsedPath = Pointer_stringify(path);
 	var parsedObjectName = Pointer_stringify(objectName);
 	var parsedCallback = Pointer_stringify(callback);
@@ -13,9 +13,9 @@ mergeInto(LibraryManager.library, {
 	catch(error) {
 	    unityInstance.Module.SendMessage(parsedObjectName, parsedFallback, "error: " + error.message);
 	}
-	},
+    },
 	
-	PostJSON: function(path, value, objectName, callback, fallback) {
+    PostJSON: function(path, value, objectName, callback, fallback) {
         var parsedPath = Pointer_stringify(path);
         var parsedValue = Pointer_stringify(value);
         var parsedObjectName = Pointer_stringify(objectName);
@@ -31,7 +31,7 @@ mergeInto(LibraryManager.library, {
         }
     },
 	
-	PushJSON: function(path, value, objectName, callback, fallback) {
+    PushJSON: function(path, value, objectName, callback, fallback) {
         var parsedPath = Pointer_stringify(path);
         var parsedValue = Pointer_stringify(value);
         var parsedObjectName = Pointer_stringify(objectName);
@@ -63,7 +63,7 @@ mergeInto(LibraryManager.library, {
         }
     }, 
 	
-	ListenForValueChanged: function(path, objectName, callback, fallback) {
+    ListenForValueChanged: function(path, objectName, callback, fallback) {
         var parsedPath = Pointer_stringify(path);
         var parsedObjectName = Pointer_stringify(objectName);
         var parsedCallback = Pointer_stringify(callback);
