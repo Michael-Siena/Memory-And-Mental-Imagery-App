@@ -247,23 +247,6 @@ namespace Debugging
         // Rotate color of every opaque pixel in texture
         private void RotatePixelColors(Texture2D t, Color32[] RGBAColors, LABColor[] LABColors, float angle)
         {
-            // OPTIMISATIONS
-            // =============
-            // Theta calculation:
-            //     originally calculated as 2f * Mathf.PI * (angle / 360f).
-            // My approximation (accurate to 8 decimal places):
-            // (1) Floating multiplication is faster than division, and division can be made into multiplication if the divisor is known ahead of time,
-            //     so precompute the invariant multiplication of (1 / 360f)
-            // (2) Divsion has been eliminated but multiplication is still costly.
-            //     Since all remaining terms are multiplied and the order in which they are done so does not matter, we can multiply all literal values
-            //     ahead of time to reduce the number of multiplcation operations (was: 2f * Mathf.PI * 0.00277777784503996372222900390625f)
-            // (3) Multiplying the angle by our new precomputed constant value will give a very close approximation of theta!
-            //
-            // Rotation matrix:
-            // Was originally a 2D array, which I flattened to a 1D aray as the .NET runtime has specialised instructions for working with the latter.
-            // These do not involve expensive method calls as found in the inner loops of multidimensional arrays. 1D arrays also offer better locality
-            // in memory and have less allocation / deallocation overhead
-            //
             // LABColorspace conversion:
             // See LABColor struct for comments.
             float theta = angle * 0.01745329342f;
