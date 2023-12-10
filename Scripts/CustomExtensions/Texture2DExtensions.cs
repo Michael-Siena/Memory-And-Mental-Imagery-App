@@ -11,7 +11,6 @@ namespace CustomExtensions
         {
             var copy = new Texture2D(original.width, original.height, TextureFormat.RGBA32, false);
             Graphics.CopyTexture(original, copy); // doesn't put as much pressure on garbage collector as Get/SetPixels
-
             return copy;
         }
 
@@ -31,7 +30,6 @@ namespace CustomExtensions
                 grayscale[i] = temp.ToColor();
                 grayscale[i].a = cols[i].a; // use original alpha
             }
-
             t.UpdateColorPixels32(grayscale);
         }
 
@@ -59,7 +57,6 @@ namespace CustomExtensions
                     rotatedCols[i] = cols[i]; // we can just use the original pixels, since they are transparent!
                 }
             }
-
             t.UpdateColorPixels32(rotatedCols);
         }
     }
