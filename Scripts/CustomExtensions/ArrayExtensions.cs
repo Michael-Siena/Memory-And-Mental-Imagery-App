@@ -18,6 +18,7 @@ namespace CustomExtensions
                     k++;
                 }
             }
+            
             return expandedArray;
         }
 
@@ -33,6 +34,7 @@ namespace CustomExtensions
                     transposedArray[j, i] = array[i, j];
                 }
             }
+            
             return transposedArray;
         }
 
