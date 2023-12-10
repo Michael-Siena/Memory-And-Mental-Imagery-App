@@ -18,7 +18,6 @@ namespace CustomExtensions
                     k++;
                 }
             }
-            
             return expandedArray;
         }
 
@@ -34,7 +33,6 @@ namespace CustomExtensions
                     transposedArray[j, i] = array[i, j];
                 }
             }
-            
             return transposedArray;
         }
 
@@ -43,7 +41,6 @@ namespace CustomExtensions
             T temp = array[index1];
             array[index1] = array[index2];
             array[index2] = temp;
-
             return array;
         }
 
@@ -57,7 +54,6 @@ namespace CustomExtensions
                     result[i] += array[i, j] * vector[i];
                 }
             }
-
             return result;
         }
 
@@ -72,7 +68,6 @@ namespace CustomExtensions
                     result[i] += array[i][j] * vector[i];
                 }
             }
-
             return result;
         }
     }
