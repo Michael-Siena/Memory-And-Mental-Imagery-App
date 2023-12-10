@@ -12,7 +12,6 @@ namespace CustomExtensions
             {
                 LABcolors[i] = LABColor.FromColor(colors[i]);
             }
-
             return LABcolors;
         }
     }
