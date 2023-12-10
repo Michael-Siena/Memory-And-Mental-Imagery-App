@@ -19,7 +19,6 @@ namespace CustomDataTypes
             Term1 = RandomlyGeneratePositiveInt(incMin, excMax);
             Term2 = RandomlyGeneratePositiveInt(incMin, excMax);
             Answer = GetAnswer();
-
         }
 
         // this is for specific problems to be instanced. Useful for testing...
