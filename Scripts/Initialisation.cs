@@ -16,8 +16,8 @@ public sealed class Initialisation : MonoBehaviour
         }
         else
         {
-            incompatibleDeviceCanvas.SetActive(true);
             compatibleDeviceCanvas.SetActive(false);
+            incompatibleDeviceCanvas.SetActive(true);
         }
     }
 }
