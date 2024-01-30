@@ -5,7 +5,7 @@ namespace Utilities
 {
     public static class FastMathf
     {
-        // Uses bitwise operations for fast power estimation, but at the cost of up to 25% error (typically 5 - 10%).
+        // Uses bitwise operations for fast power estimation, but at the cost of some error.
         // This can produce a minor stipling effect when rotating color hues but the result is usually quite close to that produced using the built-in power calculation method.
         public static float Pow(float x, float power)
         {
