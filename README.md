@@ -2,9 +2,9 @@ Individuals aphantasia commonly report poor mental imagery and memory abilities,
 I built this data collection app to measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see figure 1 for overview). Critically, I used
 model-based measures of memory fidelity or _precision_ as well as all-or-none memory accuracy in order to gain detailed insight into their memory representations.
 
-
-![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
-
+<p align="center">
+  ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
+</p>
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 First, research participants initially familiarised themselves with the testing environment during the exploration phase (not shown). A) Then, in the study phase, participants learned the colour and location 
 of eight target objects. These target objects were presented in a series at random locations in the testing environment, which were viewed from either a first-person (left) or third-person (right) perspective. 
