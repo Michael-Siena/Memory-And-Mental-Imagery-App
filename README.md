@@ -14,13 +14,13 @@ alternative studied perspective (bottom left or right). Vividness ratings always
 reproduction, but object and spatial memory assessment order randomly varied. Note that target
 object size has been increased for clarity in this figure.
 
-![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
+                        ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
 
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 
 
-In addition to measuring all-or-none memory accuracy, I measured how precisely aphantasics could remember object colour hues (example given below in figure 2) to gain gain more detailed insight into how their self-reported
-lack of mental imagery affected their objective memory abilities.
+In addition to measuring all-or-none memory accuracy, I measured how precisely aphantasics could remember object subtly varying colour hues (example given below in figure 2) to gain gain more detailed insight 
+into how their self-reported lack of mental imagery affected their objective memory abilities.
 ![Colour-Rotated Stimulus](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/9e342291-404d-4648-8a00-a9b86a045837)
 
 **Figure 2. An example target object stimulus, colour-rotated in 60° increments.** 
