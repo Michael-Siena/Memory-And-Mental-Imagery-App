@@ -2,6 +2,7 @@ This app collected behavioural data measuring how well research participants cou
 
 Figure 1 provides a schematic overview of the most important parts of the app.
 ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
+
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 Participants initially familiarised themselves with the testing environment during the exploration phase
 (not shown). A) Then, in the study phase, participants learned the colour and location of eight target
