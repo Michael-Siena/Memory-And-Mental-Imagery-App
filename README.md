@@ -16,6 +16,7 @@ object size has been increased for clarity in this figure.
 
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 
+
 By subtly varying the colour hue of objects within a perceptually uniform colourspace (example given below in figure 2), I examined the _fidelity_ of memory in addition to all-or-none accuracy to gain detailed insights into a condition called aphantasia, where individuals report difficulty visualising objects in their mind.
 ![Colour-Rotated Stimulus](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/9e342291-404d-4648-8a00-a9b86a045837)
 
