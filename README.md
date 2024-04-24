@@ -14,6 +14,7 @@ After the study phase, participants solved simple self-paced arithmetic problems
 made subjective memory imagery vividness ratings on (not shown), then reproduced, their object (middle) and spatial memory features, the latter of which were tested in the same or alternative studied perspective 
 (bottom left or right).
 
+[click here](www.google.com)
 
 Subsequent statistical analysis on data collected from this app revealed that aphantasics can remember colour hues as precisely as non-aphantasic individuals - a surprising finding given their self-reported inability 
 to visualise object properties. This work suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
