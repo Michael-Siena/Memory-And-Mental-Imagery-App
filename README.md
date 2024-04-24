@@ -1,4 +1,6 @@
-This app collected behavioural data measuring how well research participants could remember the location and colour of common objects seen within a 3D virtual environment.
+Aphantasic individuals commonly report poor mental imagery and memory abilities, yet few studies on aphantasia have objectively tested these abilities together in an experiment. Therefore, I designed this 
+data collection app to measure how well individuals with a condition called aphantasia could remember the location and colour of common objects seen within a 3D virtual environment.
+
 
 To give a brief overview of the most important aspects of the app (see figure 1), research participants initially familiarised themselves with the testing environment during the exploration phase
 (not shown). A) Then, in the study phase, participants learned the colour and location of eight target
@@ -17,8 +19,11 @@ object size has been increased for clarity in this figure.
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 
 
-By subtly varying the colour hue of objects within a perceptually uniform colourspace (example given below in figure 2), I examined the _fidelity_ of memory in addition to all-or-none accuracy to gain detailed insights into a condition called aphantasia, where individuals report difficulty visualising objects in their mind.
+I examined the continuous _fidelity_ of memory by varying the colour hue of objects within a perceptually uniform colourspace (example given below in figure 2), gaining detailed insights into a condition called aphantasia.
 ![Colour-Rotated Stimulus](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/9e342291-404d-4648-8a00-a9b86a045837)
 
 **Figure 2. An example target object stimulus, colour-rotated in 60° increments.** 
 Note that colour hue was allowed to vary continuously during the actual experiment.
+
+Subsequent statistical analysis on data collected from this app revealed that aphantasics can remember colour hues as precisely as non-aphantasic individuals - a surprising finding given their self-reported inability to 
+visualise object properties. This work suggests that some aphantasics may retain high-fidelty visual memory reprsentations that may not be consciously accessible. 
