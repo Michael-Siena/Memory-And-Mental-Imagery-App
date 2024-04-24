@@ -1,7 +1,7 @@
 Individuals with a condition called aphantasia commonly report poor mental imagery and memory abilities, yet few studies on aphantasia have objectively tested these abilities together in an experiment. Therefore, I 
 built this data collection app to measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see figure 1 for overview).
 
-![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
+  ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
 
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 First, research participants initially familiarised themselves with the testing environment during the exploration phase (not shown). A) Then, in the study phase, participants learned the colour and location 
