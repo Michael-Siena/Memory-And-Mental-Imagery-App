@@ -3,7 +3,9 @@ measure how well aphantasics could remember the location and colour of common ob
 percetually uniform colour space and used model-based measures of memory fidelity or _precision_ (in addition to all-or-none memory accuracy) in order to gain detailed insight into their memory representations.
 
 
-![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
+<p align="center">
+  <img src="https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a" />
+</p>
 
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 First, research participants initially familiarised themselves with the testing environment during the exploration phase (not shown). A) Then, in the study phase, participants learned the colour and location 
