@@ -1,5 +1,6 @@
-Individuals with a condition called aphantasia commonly report poor mental imagery and memory abilities, yet few studies on aphantasia have objectively tested these abilities together in an experiment. Therefore, I 
-built this data collection app to measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see figure 1 for overview).
+Individuals with the condition aphantasia commonly report poor mental imagery and memory abilities, yet few studies have objectively tested these abilities together in an experiment despite their subjective complaints. 
+Therefore, I built this data collection app to measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see figure 1 for overview). Critically, I used
+model-based measures of memory fidelity or _precision__ as well as all-or-none memory accuracy in order to gain detailed insight into the memory representations supporting responses.
 
   ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
 
@@ -10,14 +11,6 @@ After the study phase, participants solved simple self-paced arithmetic problems
 made subjective memory imagery vividness ratings on (not shown), then reproduced, their object (middle) and spatial memory features, the latter of which were tested in the same or alternative studied perspective 
 (bottom left or right). Vividness ratings always preceded feature reproduction, but object and spatial memory assessment order randomly varied. Note that target object size has been increased for clarity in this 
 figure.
-
-
-In addition to measuring all-or-none memory accuracy, I measured how precisely aphantasics could remember object subtly varying colour hues (example given below in figure 2) to gain gain more detailed insight 
-into how their self-reported lack of mental imagery affected their objective memory abilities.
-![Colour-Rotated Stimulus](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/9e342291-404d-4648-8a00-a9b86a045837)
-
-**Figure 2. An example target object stimulus, colour-rotated in 60° increments.** 
-Note that colour hue was allowed to vary continuously during the actual experiment.
 
 Subsequent statistical analysis on data collected from this app revealed that aphantasics can remember colour hues as precisely as non-aphantasic individuals - a surprising finding given their self-reported inability 
 to visualise object properties. This work suggests that some aphantasics may retain high-fidelty visual memory reprsentations that may not be consciously accessible. 
