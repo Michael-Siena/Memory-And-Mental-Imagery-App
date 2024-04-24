@@ -1,6 +1,6 @@
 Individuals aphantasia commonly report poor mental imagery and memory abilities, yet few studies have objectively tested these abilities together in an experiment. Therefore, I built this data collection app to 
 measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see figure 1 for overview). Critically, I varied object colour hues along the CIELAB 
-percetually uniform colourspace and used model-based measures of memory fidelity or _precision_ (in addition to all-or-none memory accuracy) in order to gain detailed insight into their memory representations.
+percetually uniform colour space and used model-based measures of memory fidelity or _precision_ (in addition to all-or-none memory accuracy) in order to gain detailed insight into their memory representations.
 
 
 ![Picture1](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/7bfc0fb5-c1e9-4508-9f97-f608407fb65a)
