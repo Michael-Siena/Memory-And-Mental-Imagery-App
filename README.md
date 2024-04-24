@@ -19,7 +19,8 @@ object size has been increased for clarity in this figure.
 **Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 
 
-I examined the continuous _fidelity_ of memory by varying the colour hue of objects within a perceptually uniform colourspace (example given below in figure 2), gaining detailed insights into a condition called aphantasia.
+In addition to measuring all-or-none memory accuracy, I measured how precisely aphantasics could remember object colour hues (example given below in figure 2) to gain gain more detailed insight into how their self-reported
+lack of mental imagery affected their objective memory abilities.
 ![Colour-Rotated Stimulus](https://github.com/Michael-Siena/Memory-And-Mental-Imagery-App/assets/49949052/9e342291-404d-4648-8a00-a9b86a045837)
 
 **Figure 2. An example target object stimulus, colour-rotated in 60° increments.** 
