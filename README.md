@@ -1,5 +1,5 @@
 Individuals with [aphantasia](https://aphantasia.com/what-is-aphantasia/) commonly report poor mental imagery and memory abilities, yet few studies have objectively tested these abilities together in an experiment. Therefore, I built this data collection app to 
-measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see Figure 1 for overview). Critically, I varied object colour hues along the [CIELAB](https://www.hunterlab.com/blog/what-is-cielab-color-space/)
+go beyond questionnaire-based self-reports and measure how well aphantasics could remember the location and colour of common objects seen within a 3D virtual environment (see Figure 1 for overview). Critically, I varied object colour hues along the [CIELAB](https://www.hunterlab.com/blog/what-is-cielab-color-space/)
 percetually uniform colour space and used [model-based measures of memory fidelity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588137/) (in addition to all-or-none memory accuracy) in order to gain detailed insight into aphantasic memory representations.
 
 
