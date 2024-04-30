@@ -14,5 +14,10 @@ After the study phase, participants solved simple self-paced arithmetic problems
 made subjective memory imagery vividness ratings on (not shown), then reproduced, their object (middle) and spatial memory features, the latter of which were tested in the same or alternative studied perspective 
 (bottom left or right).</small>
 
-Subsequent statistical analysis on data collected from this app, however, found no significant objective memory differences between aphantasics and control participants, including in colour memory recall precision - a surprising finding given their self-reported lack of visual mental imagery experience. [This work](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02120/119441/Metacognitive-Awareness-and-the-Subjective?redirectedFrom=fulltext) suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
+Subsequent statistical analysis on data collected from this app, however, found no significant objective memory differences between aphantasics and control participants, including in colour memory recall precision (see Figure 2 B, left) - a surprising finding given their self-reported lack of visual mental imagery experience. [This work](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02120/119441/Metacognitive-Awareness-and-the-Subjective?redirectedFrom=fulltext) suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
 mental imagery rather than lack mental imagery altogether. 
+
+<p align="center">
+  <img src=https://github.com/Michael-Siena/Memory-And-Mental-Imagery-Test-App/assets/49949052/d3f102d8-450b-41c2-a33f-7bf607b9ce6f" />
+</p>
+Figure 4. Mean colour memory vividness ratings (A) and all-or-none retrieval success (B, left) and recall precision (B, right) measures across imagery groups and task perspective conditions. Error bars denote standard error of the mean.
