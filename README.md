@@ -14,6 +14,5 @@ After the study phase, participants solved simple self-paced arithmetic problems
 made subjective memory imagery vividness ratings on (not shown), then reproduced, their object (middle) and spatial memory features, the latter of which were tested in the same or alternative studied perspective 
 (bottom left or right).</small>
 
-Subsequent statistical analysis on data collected from this app revealed that aphantasics can remember colour hues as precisely as non-aphantasic individuals - a surprising finding given their self-reported inability 
-to visualise object properties. [This work](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02120/119441/Metacognitive-Awareness-and-the-Subjective?redirectedFrom=fulltext) suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
+Subsequent statistical analysis on data collected from this app found no objective memory differences between aphantasics and control participants, including colour memory precision - a surprising finding given their self-reported lack of mental imagery experience. [This work](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02120/119441/Metacognitive-Awareness-and-the-Subjective?redirectedFrom=fulltext) suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
 mental imagery rather than lack mental imagery altogether. 
