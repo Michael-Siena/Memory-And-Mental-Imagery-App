@@ -1,6 +1,6 @@
 Individuals with [aphantasia](https://aphantasia.com/what-is-aphantasia/) commonly report poor visual mental imagery and memory abilities, yet few studies have objectively tested these abilities together in an experiment. Therefore, I built this data collection app using C#, the Unity game engine, and Google Firebase Realtime Database technology to 
 go beyond questionnaire-based self-reports and measure how well aphantasics could actually remember the location and colour of common objects seen within a 3D virtual environment (see Figure 1 for overview). Critically, I varied object colour hues along the [CIELAB](https://www.hunterlab.com/blog/what-is-cielab-color-space/)
-percetually uniform colour space and used [model-based measures of memory fidelity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588137/) (in addition to all-or-none retrieval success) in order to gain detailed insight into aphantasic memory representations.
+percetually uniform colour space and used [model-based measures of memory precision](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588137/) (in addition to all-or-none retrieval success) in order to gain detailed insight into the __fidelity__ of aphantasic memory representations, which should be more sensitive to true visual mental imagery deficits and difficult to solve using non-imagery-based memory strategies such as remembering verbal labels.
 
 
 <p align="center">
