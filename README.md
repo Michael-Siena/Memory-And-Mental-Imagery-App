@@ -20,4 +20,4 @@ mental imagery rather than lack mental imagery altogether.
 <p align="center">
   <img src=https://github.com/Michael-Siena/Memory-And-Mental-Imagery-Test-App/assets/49949052/d3f102d8-450b-41c2-a33f-7bf607b9ce6f" />
 </p>
-Figure 4. Mean colour memory vividness ratings (A) and all-or-none retrieval success (B, left) and recall precision (B, right) measures across imagery groups and task perspective conditions. Error bars denote standard error of the mean.
+Figure 2. Mean colour memory vividness ratings (A) and all-or-none retrieval success (B, left) and recall precision (B, right) measures across imagery groups and task perspective conditions. Error bars denote standard error of the mean.
