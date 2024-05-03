@@ -9,7 +9,7 @@ percetually uniform colour space and used [model-based measures of memory precis
 
 <small>**Figure 1. Schematic representation of a testing block in the memory and mental imagery data collection app.**
 First, research participants initially familiarised themselves with the testing environment during the exploration phase (not shown). A) Then, in the study phase, participants learned the colour and location 
-of eight target objects. These target objects were presented in a series at random locations in the testing environment, which were viewed from either a first-person (left) or third-person (right) perspective. 
+of eight target objects. These target objects were presented at random locations in the testing environment and viewed from either a first-person (left) or third-person (right) perspective. 
 After the study phase, participants solved simple self-paced arithmetic problems for 30s (not shown). B) Finally, in the test phase, studied target objects were first cued in greyscale (top) before participants 
 made subjective memory imagery vividness ratings (not shown) and then reproduced the studied object (middle) and spatial memory features.</small>
 
