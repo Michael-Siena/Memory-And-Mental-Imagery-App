@@ -11,8 +11,7 @@ percetually uniform colour space and used [model-based measures of memory precis
 First, research participants initially familiarised themselves with the testing environment during the exploration phase (not shown). A) Then, in the study phase, participants learned the colour and location 
 of eight target objects. These target objects were presented in a series at random locations in the testing environment, which were viewed from either a first-person (left) or third-person (right) perspective. 
 After the study phase, participants solved simple self-paced arithmetic problems for 30s (not shown). B) Finally, in the test phase, studied target objects were first cued in greyscale (top) before participants 
-made subjective memory imagery vividness ratings on (not shown), then reproduced, their object (middle) and spatial memory features, the latter of which were tested in the same or alternative studied perspective 
-(bottom left or right).</small>
+made subjective memory imagery vividness ratings (not shown) and then reproduced the studied object (middle) and spatial memory features.</small>
 
 Subsequent [statistical analysis](https://github.com/Michael-Siena/Aphantasia-Study-Analysis) of data collected from this app, however, found no significant objective memory differences between aphantasics and control participants, including in colour memory recall precision (for main findings, see Figure 2 B, left) - a surprising finding given their self-reported lack of visual mental imagery experience. [This work](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02120/119441/Metacognitive-Awareness-and-the-Subjective?redirectedFrom=fulltext) suggests that some aphantasics may retain and unconsciously utilise high-fidelty visual memory reprsentations. In other words, some aphantasics may lack awareness of their
 mental imagery rather than lack mental imagery altogether. 
